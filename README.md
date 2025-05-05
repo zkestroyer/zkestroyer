@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zkestroyer
+- 👋 Hi, I’m Zainab Khan
 - 👀 I’m interested in becoming a professional coder
-- 🌱 I’m currently learning Javascript
+- 🌱 I have learnt python, C and C++
 - 💞️ I’m looking to collaborate on different kind of codes
 - 📫 Email me to reach
 
