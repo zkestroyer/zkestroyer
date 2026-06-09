@@ -47,13 +47,14 @@ Currently Learning:
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 Portfolio
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zkestroyer&show_icons=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkestroyer&layout=compact"/>
+<a href="https://my-portfolio-ochre-three-52.vercel.app" target="_blank">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zkestroyer&show_icons=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkestroyer&layout=compact"/>
+</a>
 
 </div>
 
