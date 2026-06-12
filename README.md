@@ -188,14 +188,14 @@ Specialized in creating highly interactive and accessible user interfaces.
 
 ---
 
-### [cite_start]📊 GitHub Analytics [cite: 87]
+### 📊 GitHub Analytics [
 
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=zainabkhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9&icon_color=A970FF" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=zkestroyer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9&icon_color=A970FF" alt="GitHub Stats" /> 
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainabkhan&theme=tokyonight&hide_border=true&background=0D1117&ring=A970FF&fire=A970FF&currStreakNum=C9D1D9" alt="GitHub Streak" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zkestroyer&theme=tokyonight&hide_border=true&background=0D1117&ring=A970FF&fire=A970FF&currStreakNum=C9D1D9" alt="GitHub Streak" /> 
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabkhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9" alt="Top Languages" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkestroyer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9" alt="Top Languages" /> 
 </div>
 
 ---
@@ -203,7 +203,7 @@ Specialized in creating highly interactive and accessible user interfaces.
 ### 🏆 GitHub Trophies [
 
 <div align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=zainabkhan&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=zkestroyer&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" /> 
 </div>
 
 ---
@@ -211,7 +211,7 @@ Specialized in creating highly interactive and accessible user interfaces.
 ### 📈 Contribution Activity 
 
 <div align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zainabkhan&theme=tokyo-night&bg_color=0D1117&color=A970FF&line=8A2BE2&point=ffffff&hide_border=true" alt="Activity Graph" /> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zkestroyer&theme=tokyo-night&bg_color=0D1117&color=A970FF&line=8A2BE2&point=ffffff&hide_border=true" alt="Activity Graph" /> 
 </div>
 
 ---
@@ -219,16 +219,16 @@ Specialized in creating highly interactive and accessible user interfaces.
 ### 🐍 Contribution Snake 
 
 <div align="center"> 
-  <img src="https://raw.githubusercontent.com/zainabkhan/zainabkhan/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" /> 
+  <img src="https://raw.githubusercontent.com/zkestroyer/zkestoyer/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" /> 
 </div>
 
 ---
 
-### [cite_start]🎯 Current Focus [cite: 96]
+### 🎯 Current Focus 
 
 ```yaml
-# Current Engineering Focus [cite: 97]
-learning: "Advanced Machine Learning architectures and system design principles." [cite: 98]
-building: "Enterprise-grade React applications and scalable backend APIs." [cite: 99]
-exploring: "The intersection of AI tooling with traditional Web Development workflows." [cite: 100]
-open_to: "Challenging Software Engineering roles and impactful technical collaborations." [cite: 101]
+# Current Engineering Focus 
+learning: "Advanced Machine Learning architectures and system design principles." 
+building: "Enterprise-grade React applications and scalable backend APIs." 
+exploring: "The intersection of AI tooling with traditional Web Development workflows." 
+open_to: "Challenging Software Engineering roles and impactful technical collaborations." 
